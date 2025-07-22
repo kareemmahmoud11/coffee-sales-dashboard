@@ -11,9 +11,13 @@ To provide a clear overview of the business performance and to set target KPIs f
 
 📊 Key Features
 _Visual summary of monthly sales and customer behavior
+
 _Breakdown of sales across top 10 product categories including coffee, tea, chocolate, and baked goods
+
 _Interactive filters for flavor, location, and product type
+
 _KPI cards highlighting total revenue, total orders, and average spend per customer
+
 _Projection section to display target metrics for the upcoming 6 months
 
 <img width="1329" height="743" alt="Screenshot 2025-07-22 120033" src="https://github.com/user-attachments/assets/22f47edb-fcc5-429e-bdcf-5e9a5cefac13" />
